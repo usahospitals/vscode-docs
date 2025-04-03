@@ -4,7 +4,7 @@ Area: datascience
 TOCTitle: Data Wrangler
 ContentId: 8488ca7b-6f92-4894-9029-1bae431784e9
 PageTitle: Working with Data Wrangler in VS Code
-DateApproved: 02/28/2024
+DateApproved: 04/04/2024
 MetaDescription: Full documentation on working with the Data Wrangler extension in Visual Studio Code.
 ---
 
@@ -205,4 +205,4 @@ If you have problems, have feature requests, or any other feedback, please submi
 
 ## Data and telemetry
 
-The Microsoft Data Wrangler extension for Visual Studio Code collects usage data and sends it to Microsoft to help improve our products and services. Read our [privacy statement](https://go.microsoft.com/fwlink/?LinkId=521839) to learn more. This extension respects the `telemetry.telemetryLevel` setting which you can learn more about at https://code.visualstudio.com/docs/getstarted/telemetry.
+The Microsoft Data Wrangler extension for Visual Studio Code collects usage data and sends it to Microsoft to help improve our products and services. Read our [privacy statement](https://go.microsoft.com/fwlink/?LinkId=521839) to learn more. This extension respects the `telemetry.telemetryLevel` setting which you can learn more about at https://code.visualstudio.com/docs/configure/telemetry.
